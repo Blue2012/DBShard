@@ -353,7 +353,6 @@ SELECT SUM(level) FROM USER;
 
 ![image](https://user-images.githubusercontent.com/18514297/90958299-7d038500-e4ce-11ea-8b3e-bc9add548623.png)
 
-![image](https://user-images.githubusercontent.com/18514297/90958229-fe0e4c80-e4cd-11ea-995e-ff42575e54de.png)
 
 __8.データノードからのデータ登録の状況確認__
 
